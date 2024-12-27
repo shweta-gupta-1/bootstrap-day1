@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:320px) {
+    div { 
+         background-color: black;
+        
+    }
+}
+
+@media only screen and (main-width:768px) {
+    div {
+         background-color:pink;
+    }
+}
+.inner-container-1, .inner-container-2, .inner-container-3 {
+
+    height: 150px;
+    width:150;
+    margin:10px;
+    display:inline-block;
+    background-color: grey;
+} 
